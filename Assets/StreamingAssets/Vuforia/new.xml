@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="amaan_card" size="5.000000 2.940257" />
+    <ImageTarget name="my_card" size="5.000000 2.896250" />
+    <ImageTarget name="book" size="5.000000 6.973991" />
+    <ImageTarget name="newcard" size="1000.000000 609.644104" />
+    <ImageTarget name="cube" size="500.000000 495.771667" />
+    <ImageTarget name="diary" size="2192.000000 2900.000000" />
+    <ImageTarget name="zayniee" size="1992.000000 3000.000000" />
+  </Tracking>
+</QCARConfig>
